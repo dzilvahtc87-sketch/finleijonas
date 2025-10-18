@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 20:22:56 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Oct 2025 20:22:56 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2025 20:31:25 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2025 20:31:25 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -114,5 +114,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e04-aamu-torilla-story-vocabulary-20251018.mp3?v=1760818583" length="9054515" type="audio/mpeg" />
       <pubDate>Sat, 18 Oct 2025 20:16:23 +0000</pubDate>
     <itunes:duration>09:02</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S1E03 — Vierailu kirjastossa — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e03-vierailu-kirjastossa-story-vocabulary-20251018.mp3?v=1760819485</link>
+      <description>Episode file: s1e03-vierailu-kirjastossa-story-vocabulary-20251018.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e03-vierailu-kirjastossa-story-vocabulary-20251018.mp3?v=1760819485</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e03-vierailu-kirjastossa-story-vocabulary-20251018.mp3?v=1760819485" length="10286645" type="audio/mpeg" />
+      <pubDate>Sat, 18 Oct 2025 20:31:25 +0000</pubDate>
+    <itunes:duration>10:19</itunes:duration></item>
   </channel>
 </rss>
