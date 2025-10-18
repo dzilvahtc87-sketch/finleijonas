@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 19:05:44 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Oct 2025 19:05:44 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2025 19:12:06 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2025 19:12:06 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -114,5 +114,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e11-pyykinpesu-kotona-story-vocabulary-20251018.mp3?v=1760813862" length="9838978" type="audio/mpeg" />
       <pubDate>Sat, 18 Oct 2025 18:57:42 +0000</pubDate>
     <itunes:duration>09:51</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S1E10 — Paketti postissa — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e10-paketti-postissa-story-vocabulary-20251018.mp3?v=1760814726</link>
+      <description>Episode file: s1e10-paketti-postissa-story-vocabulary-20251018.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e10-paketti-postissa-story-vocabulary-20251018.mp3?v=1760814726</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e10-paketti-postissa-story-vocabulary-20251018.mp3?v=1760814726" length="9517244" type="audio/mpeg" />
+      <pubDate>Sat, 18 Oct 2025 19:12:06 +0000</pubDate>
+    <itunes:duration>09:31</itunes:duration></item>
   </channel>
 </rss>
