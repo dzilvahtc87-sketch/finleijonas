@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 19:34:34 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Oct 2025 19:34:34 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2025 19:42:41 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2025 19:42:41 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -114,5 +114,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e08-kaynti-kahvilassa-story-vocabulary-20251018.mp3?v=1760815729" length="9283792" type="audio/mpeg" />
       <pubDate>Sat, 18 Oct 2025 19:28:49 +0000</pubDate>
     <itunes:duration>09:16</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S1E07 — Päivä kielikurssilla — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e07-paiva-kielikurssilla-story-vocabulary-20251018.mp3?v=1760816561</link>
+      <description>Episode file: s1e07-paiva-kielikurssilla-story-vocabulary-20251018.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e07-paiva-kielikurssilla-story-vocabulary-20251018.mp3?v=1760816561</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e07-paiva-kielikurssilla-story-vocabulary-20251018.mp3?v=1760816561" length="9828942" type="audio/mpeg" />
+      <pubDate>Sat, 18 Oct 2025 19:42:41 +0000</pubDate>
+    <itunes:duration>09:50</itunes:duration></item>
   </channel>
 </rss>
