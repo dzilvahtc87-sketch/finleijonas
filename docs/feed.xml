@@ -3,7 +3,7 @@
   <channel>
     <title>FinLeijonas — Finnish Lessons in Simple English</title>
     <link>https://dzilvahtc87-sketch.github.io/finleijonas/feed.xml</link>
-    <description>Finnish lessons in Sinhala across three seasons: A1–A2, Spoken Finnish, and YKI B1–B2.</description>
+    <description>Easy-to-follow Finnish lessons in plain English, designed to grow your vocabulary.</description>
     <ns0:link href="https://dzilvahtc87-sketch.github.io/finleijonas/feed.xml" rel="self" />
     <copyright>© 2025 FinLeijonas</copyright>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 20:45:07 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Oct 2025 20:45:07 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2025 20:52:40 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2025 20:52:40 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -114,5 +114,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e02-ilta-kaupassa-story-vocabulary-20251018.mp3?v=1760820184" length="11369817" type="audio/mpeg" />
       <pubDate>Sat, 18 Oct 2025 20:43:04 +0000</pubDate>
     <itunes:duration>11:26</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S1E01 — Aamu Seinäjoella — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e01-aamu-seinajoella-story-vocabulary-20251018.mp3?v=1760820760</link>
+      <description>Episode file: s1e01-aamu-seinajoella-story-vocabulary-20251018.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e01-aamu-seinajoella-story-vocabulary-20251018.mp3?v=1760820760</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e01-aamu-seinajoella-story-vocabulary-20251018.mp3?v=1760820760" length="10373246" type="audio/mpeg" />
+      <pubDate>Sat, 18 Oct 2025 20:52:40 +0000</pubDate>
+    <itunes:duration>10:24</itunes:duration></item>
   </channel>
 </rss>
