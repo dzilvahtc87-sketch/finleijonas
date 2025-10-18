@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Oct 2025 20:34:19 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Oct 2025 20:34:19 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Oct 2025 20:43:04 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Oct 2025 20:43:04 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -114,5 +114,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e03-vierailu-kirjastossa-story-vocabulary-20251018.mp3?v=1760819485" length="10286645" type="audio/mpeg" />
       <pubDate>Sat, 18 Oct 2025 20:31:25 +0000</pubDate>
     <itunes:duration>10:19</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S1E02 — Ilta kaupassa — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e02-ilta-kaupassa-story-vocabulary-20251018.mp3?v=1760820184</link>
+      <description>Episode file: s1e02-ilta-kaupassa-story-vocabulary-20251018.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e02-ilta-kaupassa-story-vocabulary-20251018.mp3?v=1760820184</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e02-ilta-kaupassa-story-vocabulary-20251018.mp3?v=1760820184" length="11369817" type="audio/mpeg" />
+      <pubDate>Sat, 18 Oct 2025 20:43:04 +0000</pubDate>
+    <itunes:duration>11:26</itunes:duration></item>
   </channel>
 </rss>
