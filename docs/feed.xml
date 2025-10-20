@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 06:19:26 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Oct 2025 06:19:26 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 21:14:06 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 21:14:06 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -139,5 +139,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e01-aamukiire-mut-kahvi-pelastaa-story-vocabulary-20251020.mp3?v=1760941166" length="9255771" type="audio/mpeg" />
       <pubDate>Mon, 20 Oct 2025 06:19:26 +0000</pubDate>
     <itunes:duration>09:14</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S2E02 — Sunnuntain kirppari ja pieni ylläri — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e02-sunnuntain-kirppari-ja-pieni-yllari-story-vocabulary-20251021.mp3?v=1760994846</link>
+      <description>Episode file: s2e02-sunnuntain-kirppari-ja-pieni-yllari-story-vocabulary-20251021.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e02-sunnuntain-kirppari-ja-pieni-yllari-story-vocabulary-20251021.mp3?v=1760994846</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e02-sunnuntain-kirppari-ja-pieni-yllari-story-vocabulary-20251021.mp3?v=1760994846" length="10343141" type="audio/mpeg" />
+      <pubDate>Mon, 20 Oct 2025 21:14:06 +0000</pubDate>
+    <itunes:duration>10:22</itunes:duration></item>
   </channel>
 </rss>
