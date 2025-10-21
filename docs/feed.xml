@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Oct 2025 16:41:04 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Oct 2025 16:41:04 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2025 16:58:47 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2025 16:58:47 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -163,5 +163,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e11-pyykinpesu-kotona-story-vocabulary-20251021.mp3?v=1761026829" length="9883326" type="audio/mpeg" />
       <pubDate>Tue, 21 Oct 2025 06:07:09 +0000</pubDate>
     <itunes:duration>09:54</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S3E01 — IT-tuen työhaastattelu – käytännön keskustelu &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s3e01-it-tuen-tyohaastattelu-kaytannon-keskustelu-vocabulary-20251021.mp3?v=1761065926</link>
+      <description>Episode file: s3e01-it-tuen-tyohaastattelu-kaytannon-keskustelu-vocabulary-20251021.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s3e01-it-tuen-tyohaastattelu-kaytannon-keskustelu-vocabulary-20251021.mp3?v=1761065926</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s3e01-it-tuen-tyohaastattelu-kaytannon-keskustelu-vocabulary-20251021.mp3?v=1761065926" length="24763367" type="audio/mpeg" />
+      <pubDate>Tue, 21 Oct 2025 16:58:46 +0000</pubDate>
+    <itunes:duration>25:23</itunes:duration></item>
   </channel>
 </rss>
