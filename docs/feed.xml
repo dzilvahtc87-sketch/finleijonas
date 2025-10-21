@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Oct 2025 16:58:47 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Oct 2025 16:58:47 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2025 19:45:52 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2025 19:45:52 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -171,5 +171,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s3e01-it-tuen-tyohaastattelu-kaytannon-keskustelu-vocabulary-20251021.mp3?v=1761065926" length="24763367" type="audio/mpeg" />
       <pubDate>Tue, 21 Oct 2025 16:58:46 +0000</pubDate>
     <itunes:duration>25:23</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S2E04 — Aamu alkaa rennosti, mut pyykkikori on täynnä — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e04-aamu-alkaa-rennosti-mut-pyykkikori-on-taynna-story-vocabulary-20251021.mp3?v=1761075952</link>
+      <description>Episode file: s2e04-aamu-alkaa-rennosti-mut-pyykkikori-on-taynna-story-vocabulary-20251021.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e04-aamu-alkaa-rennosti-mut-pyykkikori-on-taynna-story-vocabulary-20251021.mp3?v=1761075952</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e04-aamu-alkaa-rennosti-mut-pyykkikori-on-taynna-story-vocabulary-20251021.mp3?v=1761075952" length="11176979" type="audio/mpeg" />
+      <pubDate>Tue, 21 Oct 2025 19:45:52 +0000</pubDate>
+    <itunes:duration>11:14</itunes:duration></item>
   </channel>
 </rss>
