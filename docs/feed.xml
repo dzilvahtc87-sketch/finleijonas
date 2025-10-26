@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 15:38:15 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Oct 2025 15:38:15 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2025 15:48:16 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Oct 2025 15:48:16 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -219,5 +219,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e08-toimistokeikka-printteri-jumissa-kamera-kuntoon-story-vocabulary-20251026.mp3?v=1761473669" length="12957599" type="audio/mpeg" />
       <pubDate>Sun, 26 Oct 2025 10:14:29 +0000</pubDate>
     <itunes:duration>13:05</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S2E09 — Etäpäivä ja VPN — koodi ei kelpaa, aika pielessä — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e09-etapaiva-ja-vpn-koodi-ei-kelpaa-aika-pielessa-story-vocabulary-20251026.mp3?v=1761493695</link>
+      <description>Episode file: s2e09-etapaiva-ja-vpn-koodi-ei-kelpaa-aika-pielessa-story-vocabulary-20251026.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e09-etapaiva-ja-vpn-koodi-ei-kelpaa-aika-pielessa-story-vocabulary-20251026.mp3?v=1761493695</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e09-etapaiva-ja-vpn-koodi-ei-kelpaa-aika-pielessa-story-vocabulary-20251026.mp3?v=1761493695" length="12548846" type="audio/mpeg" />
+      <pubDate>Sun, 26 Oct 2025 15:48:15 +0000</pubDate>
+    <itunes:duration>12:40</itunes:duration></item>
   </channel>
 </rss>
