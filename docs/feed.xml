@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Nov 2025 21:12:15 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Nov 2025 21:12:15 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2025 13:09:26 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2025 13:09:26 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -227,5 +227,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e12-keittoa-keittiossa-suola-loppu-maku-loytyy-story-vocabulary-20251101.mp3?v=1762031532" length="12030473" type="audio/mpeg" />
       <pubDate>Sat, 01 Nov 2025 21:12:12 +0000</pubDate>
     <itunes:duration>12:08</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S1E11 — Pyykinpesu kotona — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e11-pyykinpesu-kotona-story-vocabulary-20251107.mp3?v=1762520960</link>
+      <description>Episode file: s1e11-pyykinpesu-kotona-story-vocabulary-20251107.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e11-pyykinpesu-kotona-story-vocabulary-20251107.mp3?v=1762520960</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s1e11-pyykinpesu-kotona-story-vocabulary-20251107.mp3?v=1762520960" length="9867428" type="audio/mpeg" />
+      <pubDate>Fri, 07 Nov 2025 13:09:20 +0000</pubDate>
+    <itunes:duration>09:53</itunes:duration></item>
   </channel>
 </rss>
