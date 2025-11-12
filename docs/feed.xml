@@ -14,8 +14,8 @@
       <link>https://dzilvahtc87-sketch.github.io/finleijonas</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Nov 2025 23:43:02 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Nov 2025 23:43:02 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 00:08:38 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 00:08:38 +0000</pubDate>
     <itunes:author>FinLeijonas</itunes:author>
     <itunes:category text="Education">
       <itunes:category text="Language Learning" />
@@ -259,5 +259,13 @@
       <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s2e14-duuni-suomessa-eka-paiva-paljon-uutta-story-vocabulary-20251112.mp3?v=1762904582" length="12435874" type="audio/mpeg" />
       <pubDate>Tue, 11 Nov 2025 23:43:02 +0000</pubDate>
     <itunes:duration>12:33</itunes:duration></item>
+    <item>
+      <title>FinLeijonas — Finnish Lessons in Simple English S3E02 — Linux-järjestelmänvalvojan työhaastattelu – käytännön keskustelu — Story &amp; Vocabulary</title>
+      <link>https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s3e02-linux-jarjestelmanvalvojan-tyohaastattelu-kaytannon-keskustelu-story-vocabulary-20251112.mp3?v=1762906118</link>
+      <description>Episode file: s3e02-linux-jarjestelmanvalvojan-tyohaastattelu-kaytannon-keskustelu-story-vocabulary-20251112.mp3. Published by FinLeijonas.</description>
+      <guid isPermaLink="false">https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s3e02-linux-jarjestelmanvalvojan-tyohaastattelu-kaytannon-keskustelu-story-vocabulary-20251112.mp3?v=1762906118</guid>
+      <enclosure url="https://dzilvahtc87-sketch.github.io/finleijonas/episodes/s3e02-linux-jarjestelmanvalvojan-tyohaastattelu-kaytannon-keskustelu-story-vocabulary-20251112.mp3?v=1762906118" length="25185540" type="audio/mpeg" />
+      <pubDate>Wed, 12 Nov 2025 00:08:38 +0000</pubDate>
+    <itunes:duration>25:49</itunes:duration></item>
   </channel>
 </rss>
